@@ -6,7 +6,7 @@ import microphone from "../public/assets/microphone.png";
 import pen from "../public/assets/pen.png";
 import volume from "../public/assets/volume.png";
 import group from "../public/assets/group.png";
-import Link from "../public/assets/link.png";
+import Link1 from "../public/assets/Link1.png";
 import Arrow from "../public/assets/Arrow.png";
 import briefcase from "../public/assets/briefcase.png";
 import book1 from "../public/assets/book1.png";
@@ -184,7 +184,7 @@ const Hero = () => {
                   <div className="inline-flex items-center justify-center w-[100px] h-[100px] p-[34px_0_0_0] gap-[10px] rounded-tl-[5px] rounded-tr-none rounded-br-none rounded-bl-none bg-white ml-2">
                     <Image
                       className="ml-2 -mt-10"
-                      src={Link}
+                      src={Link1}
                       alt=""
                       height={32}
                       width={32}
